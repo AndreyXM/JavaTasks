@@ -26,6 +26,6 @@ public class ReverseNegative {
         }
 
         // return the int value of returnStr
-        return Integer.valueOf(returnStr);
+        return Integer.parseInt(returnStr);
     }
 }
